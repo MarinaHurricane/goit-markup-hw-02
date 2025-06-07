@@ -65,7 +65,10 @@ body {
     text-decoration: none;
 }
 
-.address-item:hover,
+.address-item:hover {
+    color: #404bbf;
+}
+
 .address-item:focus,
 .address-item:active {
     color: #404bbf;
