@@ -44,8 +44,7 @@ body {
     color: #404bbf;
 }
 
-.nav.item:focus,
-.nav-item:active {
+.nav.item:focus {
     color: #404bbf;
 }
 
