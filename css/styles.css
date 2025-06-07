@@ -44,7 +44,7 @@ body {
     color: #404bbf;
 }
 
-.nav.item:focus {
+.nav.item:active {
     color: #404bbf;
 }
 
@@ -68,7 +68,6 @@ body {
     color: #404bbf;
 }
 
-.address-item:focus,
 .address-item:active {
     color: #404bbf;
 }
