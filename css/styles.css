@@ -68,7 +68,6 @@ body {
 
 .hero {
     background-color: #2E2F42;
-    height: 600px;
 }
 
 .main-header {
@@ -82,7 +81,6 @@ body {
 
 .button {
     width: 169px;
-    height: 56px;
     background-color: #4D5AE5;
     color: #FFFFFF;
     text-align: center;
@@ -118,9 +116,12 @@ body {
 }
 
 .team {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 
+.team-list-item {
+    background-color: #FFFFFF;
+}
 .team-header {
     font-weight: 700;
     font-size: 36px;
@@ -130,7 +131,6 @@ body {
     text-align: center;
     text-transform: capitalize;
 }
-
 
 footer {
     background-color: #2E2F42;
